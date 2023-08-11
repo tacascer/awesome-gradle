@@ -195,6 +195,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin) - Configure and upload artifacts to Sonatype Nexus.
 - [gradle-release](https://github.com/researchgate/gradle-release) - Automate releasing process. Similar to the Maven release plugin.
 - [spotless-changelog](https://github.com/diffplug/spotless-changelog) - Parses changelog to calculate next version, then updates changelog on publish.
+- [reckon](https://github.com/ajoberstar/reckon) - Generates a next version for your Gradle project by parsing Git tag.
+- [gradle-git-versioning-plugin](https://github.com/qoomon/gradle-git-versioning-plugin) - Like Reckon, but allows for a more flexible version string.
 
 ### Notification
 
