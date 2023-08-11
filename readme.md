@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [findbugs](https://docs.gradle.org/current/userguide/findbugs_plugin.html) - Official plugin that performs quality checks on Java source files using [FindBugs](http://findbugs.sourceforge.net/).
 - [spotbugs](https://plugins.gradle.org/plugin/com.github.spotbugs) - Official plugin that performs quality checks on Java source files using [SpotBugs](https://spotbugs.github.io/).
 - [checkstyle](https://docs.gradle.org/current/userguide/checkstyle_plugin.html) - Official plugin that performs quality checks on Java source files using [Checkstyle](http://checkstyle.sourceforge.net/index.html).
+- [sonar-scanner](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-gradle/) Official plugin to integrate with [Sonar](https://www.sonarsource.com/knowledge/languages/java/) for static analysis.
 - [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
 - [pmd](https://docs.gradle.org/current/userguide/pmd_plugin.html) - Official plugin that performs quality checks on your project's Java source files using [PMD](http://pmd.sourceforge.net/).
 - [jdepend](https://docs.gradle.org/current/userguide/jdepend_plugin.html) - Official plugin that performs quality checks on your project's source files using [JDepend](http://clarkware.com/software/JDepend.html).
