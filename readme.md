@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [gradle-protobuf-plugin](https://github.com/tcawley/gradle-protobuf-plugin) - Compile [Google Protocol Buffers](https://developers.google.com/protocol-buffers/) files.
 - [querydsl-plugin](https://github.com/ewerk/gradle-plugins/tree/master/querydsl-plugin) - Generate [Querydsl](http://www.querydsl.com/) classes.
+- [xjc-gradle-plugin](https://github.com/bjornvester/xjc-gradle-plugin) - Generate Java classes from `.xsd` files.
 
 ### Java application development
 
